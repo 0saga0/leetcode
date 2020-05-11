@@ -15,10 +15,10 @@
 
 ![leetcode.jpeg](./assets/leetcode.jpeg)
 
-This essay records the course of and my emotion to this project from initialisation to 10,000 stars.
+This essay records the course of and my emotion to this project from initialization to 10,000 stars.
 [Milestone for 10,000+ stars](./thanksGiving.md)
 
-If you are interested in this project, **do not mean your star**. This project will be **supported for a long enough time** by the comminity. Thanks for every audience and contributor.
+If you are interested in this project, **do not mean your star**. This project will be **supported for a long enough time** by the community. Thanks for every audience and contributor.
 
 ## Introduction
 
@@ -36,7 +36,7 @@ This repository is divided into five parts for now:
 
 - The fourth part is daily challenges which were held at group chat. We usually solve one problem altogether to get more feedback. Moreover, the problems can be drafted to add to the problem solving module.
 
-- The fifth part is a future plannning on content that will be introduced into the above parts.
+- The fifth part is a future planning on content that will be introduced into the above parts.
 
 > Only when having mastered the basic data structures and algorithms can you solve complex problems easily.
 
@@ -44,7 +44,7 @@ This repository is divided into five parts for now:
 
 I, a programmer, am all passionate about technology.
 
-Used to write `.net` and `Java`, I am a frontend engineer and focused on the engineering, optimization and standardlization for frontend.
+Used to write `.net` and `Java`, I am a frontend engineer and focused on the engineering, optimization and standardization for frontend.
 
 If you want to do some contributions or collaborations, just feel free to contact me via [azl397985856@gmail.com].
 
@@ -59,7 +59,7 @@ If you want to do some contributions or collaborations, just feel free to contac
 
 (Picture credited by [LeetCode-cn](https://www.zhihu.com/question/24964987/answer/586425979).)
 
-The algorithms mainly includes:
+The algorithms mainly include:
 
 - Basic skills: Divide-and-Conquer; Binary; Greedy
 - Sorting algorithms: Quicksort; Merge Sort; Counting Sort
@@ -67,7 +67,7 @@ The algorithms mainly includes:
 - Graph theory: Shortest Path Problem; Minimal Spanning Tree
 - Dynamic Programming: Knapsack Problem; Longest Common Subsequence (LCS) Problem
 
-The data structures mainly includes:
+The data structures mainly include:
 
 - Array and linked list: Singly/Doubly-Linked List
 - Stack and queue
@@ -76,7 +76,7 @@ The data structures mainly includes:
 - Tree and Graph: Lowest Common Ancestor (LCA); Disjoint-Set
 - String: Prefix Tree (Trie); Suffix Tree
 
-## Previews
+## Previews（Not Translated Yet）
 
 [0042.trapping-rain-water](./problems/42.trapping-rain-water.md):
 
@@ -110,9 +110,11 @@ The data structures mainly includes:
 
 > Here only lists some **representative problems** but not all.
 
-#### Easy
+#### Easy （Not Translated Yet）
 
+- [0001.TwoSum](./problems/1.TwoSum.md)🆕
 - [0020.Valid Parentheses](./problems/20.validParentheses.md)
+- [0021.MergeTwoSortedLists](./problems/21.MergeTwoSortedLists.md) 🆕
 - [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)
 - [0053.maximum-sum-subarray](./problems/53.maximum-sum-subarray-en.md) 🆕
 - [0088.merge-sorted-array](./problems/88.merge-sorted-array.md)
@@ -136,20 +138,23 @@ The data structures mainly includes:
 - [0263.ugly-number](./problems/263.ugly-number.md)
 - [0283.move-zeroes](./problems/283.move-zeroes.md)
 - [0342.power-of-four](./problems/342.power-of-four.md)
+- [0371.sum-of-two-integers](./problems/371.sum-of-two-integers.md)
 - [0349.intersection-of-two-arrays](./problems/349.intersection-of-two-arrays.md)
 - [0437.path-sum-iii](./problems/437.path-sum-iii.md) 🆕
-- [0371.sum-of-two-integers](./problems/371.sum-of-two-integers.md)
+- [0455.AssignCookies](./problems/455.AssignCookies.md) 🆕
 - [0501.find-mode-in-binary-search-tree](./problems/501.Find-Mode-in-Binary-Search-Tree.md) 🆕
 - [0575.distribute-candies](./problems/575.distribute-candies.md)
 
-#### Medium
+#### Medium （Not Translated Yet）
 
 - [0002. Add Two Numbers](./problems/2.addTwoNumbers.md)
 - [0003. Longest Substring Without Repeating Characters](./problems/3.longestSubstringWithoutRepeatingCharacters.md)
 - [0005.longest-palindromic-substring](./problems/5.longest-palindromic-substring.md)
 - [0011.container-with-most-water](./problems/11.container-with-most-water.md)
 - [0015.3-sum](./problems/15.3-sum.md)
+- [0017.Letter-Combinations-of-a-Phone-Number](./problems/17.Letter-Combinations-of-a-Phone-Number.md) 🆕
 - [0019. Remove Nth Node From End of List](./problems/19.removeNthNodeFromEndofList.md)
+- [0022.GenerateParentheses](./problems/22.GenerateParentheses.md) 🆕
 - [0024. Swap Nodes In Pairs](./problems/24.swapNodesInPairs.md)
 - [0029.divide-two-integers](./problems/29.divide-two-integers.md)
 - [0031.next-permutation](./problems/31.next-permutation.md)
@@ -175,6 +180,7 @@ The data structures mainly includes:
 - [0098.validate-binary-search-tree](./problems/98.validate-binary-search-tree.md)
 - [0102.binary-tree-level-order-traversal](./problems/102.binary-tree-level-order-traversal.md)
 - [0103.binary-tree-zigzag-level-order-traversal](./problems/103.binary-tree-zigzag-level-order-traversal.md)
+- [105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.md](./problems/105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.md)
 - [0113.path-sum-ii](./problems/113.path-sum-ii.md)
 - [0129.sum-root-to-leaf-numbers](./problems/129.sum-root-to-leaf-numbers.md)
 - [0130.surrounded-regions](./problems/130.surrounded-regions.md)
@@ -219,13 +225,14 @@ The data structures mainly includes:
 - [1031.maximum-sum-of-two-non-overlapping-subarrays](./problems/1031.maximum-sum-of-two-non-overlapping-subarrays.md)
 - [1218.longest-arithmetic-subsequence-of-given-difference.md](./problems/1218.longest-arithmetic-subsequence-of-given-difference.md) 🆕
 
-#### Hard
+#### Hard （Not Translated Yet）
 
 - [0004.median-of-two-sorted-array](./problems/4.median-of-two-sorted-array.md) 🆕
 - [0023.merge-k-sorted-lists](./problems/23.merge-k-sorted-lists.md)
 - [0025.reverse-nodes-in-k-group](./problems/25.reverse-nodes-in-k-groups-en.md) 🆕
 - [0032.longest-valid-parentheses](./problems/32.longest-valid-parentheses.md) 🆕
 - [0042.trapping-rain-water](./problems/42.trapping-rain-water.md)
+- [0052.N-Queens-II](./problems/52.N-Queens-II.md) 🆕
 - [0124.binary-tree-maximum-path-sum](./problems/124.binary-tree-maximum-path-sum.md)
 - [0128.longest-consecutive-sequence](./problems/128.longest-consecutive-sequence.md)
 - [0145.binary-tree-postorder-traversal](./problems/145.binary-tree-postorder-traversal.md)
@@ -235,7 +242,7 @@ The data structures mainly includes:
 - [0460.lfu-cache](./problems/460.lfu-cache.md) 🆕
 - [1168.optimize-water-distribution-in-a-village](./problems/1168.optimize-water-distribution-in-a-village-en.md) 🆕
 
-### Summary of Data Structures and Algorithms
+### Summary of Data Structures and Algorithm
 
 - [Data Structure](./thinkings/basic-data-structure-en.md) (Drafts)
 - [Basic Algorithm](./thinkings/basic-algorithm-en.md)Drafts
@@ -244,6 +251,7 @@ The data structures mainly includes:
 - [Huffman Encode and Run Length Encode](./thinkings/run-length-encode-and-huffman-encode-en.md)
 - [Bloom Filter](./thinkings/bloom-filter-en.md)
 - [String Problems](./thinkings/string-problems-en.md)
+- [Sliding Window Technique](./thinkings/slide-window.en.md)
 
 ### Anki Flashcards
 
@@ -300,7 +308,7 @@ We're still on the early stage, so feedback from community is very welcome. For 
 ## Contribution
 
 - If you have any ideas, [Issues](https://github.com/azl397985856/leetcode/issues) or chat in groups.
-- If you want to commit to the repository, Pull Request is welcome.
+- If you want to commit to the repository, Pull Request is welcome. Here is the [CONTRIBUTION GUIDE](./CONTRIBUTING.en.md)
 - If you want to edit images resources in this project, [here](./assets/drawio/) lists the files that can be edited on [draw.io](https://www.draw.io/).
 
 ## Thank you
