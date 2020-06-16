@@ -6,7 +6,7 @@
 [![Travis](https://img.shields.io/badge/language-Java-blue.svg)]()
 
 [![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#关注我)
-[![](https://img.shields.io/badge/公众号-脑洞前端-blueviolet)](#关注我)
+[![](https://img.shields.io/badge/公众号-力扣加加-blueviolet)](#关注我)
 [![](https://img.shields.io/badge/Juejin-掘金-blue)](https://juejin.im/user/58af98305c497d0067780b3b)
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/lu-xiao-13-70)
 [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/519510412/)
@@ -30,6 +30,23 @@
 - 2020-04-14: 官网`力扣加加`上线啦 💐💐💐💐💐，有专题讲解，每日一题，下载区和视频题解，后续会增加更多内容，还不赶紧收藏起来？地址：http://leetcode-solution.cn/
 
 ![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvenxvjlsj30z90dtdhw.jpg)
+
+## 非科学人士看过来
+
+如果是国内的非科学用户，可以使用 https://lucifer.ren/leetcode ，整站做了静态化，速度贼快！但是阅读体验可能一般，大家也可以访问[力扣加加](http://leetcode-solution.cn/)（暂时没有静态化）获得更好的阅读体验。
+
+## 怎么刷 LeetCode？
+
+- [我是如何刷 LeetCode 的](https://www.zhihu.com/question/280279208/answer/824585814)
+- [算法小白如何高效、快速刷 leetcode？](https://www.zhihu.com/question/321738058/answer/1279464192)
+
+## 刷题插件(开发中)
+
+- [刷题效率低？或许你就差这么一个插件](https://lucifer.ren/blog/2020/06/06/algo-chrome-extension/)
+
+## 91 天学算法
+
+- [91 天，遇见不一样的自己](https://lucifer.ren/blog/2020/05/23/91-algo/)
 
 ## 介绍
 
@@ -233,7 +250,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0365.water-and-jug-problem](./problems/365.water-and-jug-problem.md)
 - [0378.kth-smallest-element-in-a-sorted-matrix](./problems/378.kth-smallest-element-in-a-sorted-matrix.md)
 - [0380.insert-delete-getrandom-o1](./problems/380.insert-delete-getrandom-o1.md)🆕
-- [0416.partition-equal-subset-sum](./problems/416.partition-equal-subset-sum.md)
+- [0416.partition-equal-subset-sum](./problems/416.partition-equal-subset-sum.md)🖊
 - [0445.add-two-numbers-ii](./problems/445.add-two-numbers-ii.md)
 - [0454.4-sum-ii](./problems/454.4-sum-ii.md)
 - [0474.ones-and-zeros](./problems/474.ones-and-zeros-en.md)
@@ -246,7 +263,6 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0820.short-encoding-of-words](./problems/820.short-encoding-of-words.md) 🆕
 - [0875.koko-eating-bananas](./problems/875.koko-eating-bananas.md)
 - [0877.stone-game](./problems/877.stone-game.md)
-- [0887.super-egg-drop](./problems/887.super-egg-drop.md)
 - [0900.rle-iterator](./problems/900.rle-iterator.md)
 - [0912.sort-an-array](./problems/912.sort-an-array.md)
 - [0935.knight-dialer](./problems/935.knight-dialer.md) 🆕
@@ -292,6 +308,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0460.lfu-cache](./problems/460.lfu-cache.md)
 - [0472.concatenated-words](./problems/472.concatenated-words.md) 🆕
 - [0493.reverse-pairs](./problems/493.reverse-pairs.md) 🆕
+- [0887.super-egg-drop](./problems/887.super-egg-drop.md)
 - [0895.maximum-frequency-stack](./problems/895.maximum-frequency-stack.md) 🆕
 - [1168.optimize-water-distribution-in-a-village](./problems/1168.optimize-water-distribution-in-a-village-cn.md) 🆕
 - [1449.form-largest-integer-with-digits-that-add-up-to-target](./problems/1449.form-largest-integer-with-digits-that-add-up-to-target.md) 🆕
@@ -311,12 +328,13 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [《贪婪策略》专题](./thinkings/greedy.md)
 - [《深度优先遍历》专题](./thinkings/DFS.md)
 - [滑动窗口（思路 + 模板）](./thinkings/slide-window.md)
-- [位运算](./thinkings/bit.md) 🆕
+- [位运算](./thinkings/bit.md)
 - [设计题](./thinkings/design.md) 🆕
-- [小岛问题](./thinkings/island.md) 🆕
+- [小岛问题](./thinkings/island.md)
 - [最大公约数](./thinkings/GCD.md) 🆕
 - [并查集](./thinkings/union-find.md) 🆕
 - [前缀和](./thinkings/prefix.md) 🆕
+- [字典序列删除](https://lucifer.ren/blog/2020/06/13/%E5%88%A0%E9%99%A4%E9%97%AE%E9%A2%98/)🆕
 
 ### anki 卡片
 
@@ -367,6 +385,8 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki 集合”，然后�
 - 堆可以解决的题目。 手写堆
 
 - 单调栈
+
+- BFS & DFS
 
 ## 关注我
 
