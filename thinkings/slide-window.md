@@ -31,7 +31,7 @@
    - 4.1 如果满足，再判断是否需要更新最优解，如果需要则更新最优解
    - 4.2 如果不满足，则继续。
 
-![](https://tva1.sinaimg.cn/large/00831rSTly1gcw0pwdhmwj308z0d53yt.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghlugkc80jj308z0d5aaa.jpg)
 
 ### 可变窗口大小
 
@@ -45,7 +45,7 @@
 
 形象地来看的话，就是 r 指针不停向右移动，l 指针仅仅在窗口满足条件之后才会移动，起到窗口收缩的效果。
 
-![](https://tva1.sinaimg.cn/large/00831rSTly1gcw0ouuplaj30d90d50t3.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghlugl94y8j30d90d50t5.jpg)
 
 ## 模板代码
 
@@ -79,7 +79,7 @@ class Solution:
         return  0 if ans == len(nums) + 1 else ans
 ```
 
-## 题目列表
+## 题目列表（有题解）
 
 以下题目有的信息比较直接，有的题目信息比较隐蔽，需要自己发掘
 
@@ -93,6 +93,7 @@ class Solution:
 - [【1004. 最大连续 1 的个数 III】滑动窗口（Python3）](https://leetcode-cn.com/problems/max-consecutive-ones-iii/solution/1004-zui-da-lian-xu-1de-ge-shu-iii-hua-dong-chuang/)
 - [【1234. 替换子串得到平衡字符串】[Java/C++/Python] Sliding Window](https://leetcode.com/problems/replace-the-substring-for-balanced-string/discuss/408978/javacpython-sliding-window/367697)
 - [【1248. 统计「优美子数组」】滑动窗口（Python）](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/solution/1248-tong-ji-you-mei-zi-shu-zu-hua-dong-chuang-kou/)
+
 
 ## 扩展阅读
 
